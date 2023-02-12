@@ -318,16 +318,13 @@ var Hangmanizr = React.createClass({
 			<div className={this.state.gameOver ? "container gameOver" : "container "}>
 
 				<header>
-					<a href="https://mburakerman.github.io/hangmanizr/" className="title">HANGMANIZR</a>
+					<a href="https://github.com/oyerohabib/hangman/" className="title">HANGMANIZR</a>
 					<p className="description">Quick Hangman Game</p>
 				</header>
 
 				<section>
 					<div className="twitter-github-buttons-wrapper">
-						<a href="https://github.com/mburakerman/hangmanizr" className="github-button" target="_blank" rel="external"> <img src="./img/github.svg" alt="Github" /> Fork</a>
-
-						<a className="twitter-share-button"
-							href="https://twitter.com/share?url=https://mburakerman.github.io/hangmanizr/&text=Hangmanizr - Quick Hangman Game" target="_blank" rel="external"><img src="./img/twitter.svg" alt="Twitter" />  Tweet</a>
+						<a href="https://github.com/oyerohabib/hangman/" className="github-button" target="_blank" rel="external"> <img src="./img/github.svg" alt="Github" /> View Code</a>
 					</div>
 
 
@@ -490,7 +487,7 @@ S4.143,6.98,3.674,6.98z"></path>
 				</div>
 
 				<footer>
-					<p className="copyright">© <a href="https://mburakerman.github.io/" target="_blank" rel="external">Mehmet Burak Erman</a></p>
+					<p className="copyright">© <a href="https://github.com/oyerohabib/hangman/" target="_blank" rel="external">Oyero Habib</a></p>
 					<p className="built-with">Built with <span className="heart">❤</span> <img className="react-logo" src={'./img/reactjs-logo.svg'} alt="React.js Logo" title="React.js" /></p>
 				</footer>
 
